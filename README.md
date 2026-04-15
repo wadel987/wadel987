@@ -6,12 +6,23 @@
 
 ---
 
+## 💼 Projets & Contact Professionnel
+Je travaille actuellement dans une **entreprise informatique**. Si vous avez une proposition de projet sérieux, besoin d'expertise, ou simplement une question technique, n'hésitez pas à me contacter directement.
+
+📩 **Email :** [linuxscan.tg@gmail.com](mailto:linuxscan.tg@gmail.com)
+
+---
+
+## ⚠️ ATTENTION
+> **Note importante :** Faites bien attention à ce que vous téléchargez sur mon GitHub. Je poste un peu de tout, des tests, des scripts cassés ou du grand n'importe quoi. **Utilisez à vos risques et périls !** 🧪
+
+---
+
 ## 🛡️ À propos de moi
 Je suis un passionné de **Cybersecurity (Blue Team)** et de **Networking**. Mon objectif est de sécuriser les infrastructures et de comprendre les rouages du système. 
 
 * 🔭 Actuellement en train de me spécialiser en **Cybersécurité**.
-* 🤝 Je cherche à collaborer avec un **développeur Full Stack** sur des projets mêlant outils de monitoring et sécurité.
-* 📩 Contactez-moi : [linuxscan.tg@gmail.com](mailto:linuxscan.tg@gmail.com)
+* 🤝 Je cherche à collaborer avec un **développeur Full Stack**.
 
 ---
 
@@ -26,8 +37,6 @@ Je suis un passionné de **Cybersecurity (Blue Team)** et de **Networking**. Mon
 ---
 
 ## 📈 Statistiques GitHub
-*(Ajoute cette section pour donner un aspect dynamique)*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wadel987&show_icons=true&theme=radical&hide_border=true" />
 </p>
